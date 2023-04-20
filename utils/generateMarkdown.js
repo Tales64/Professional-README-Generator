@@ -18,7 +18,17 @@ function generateMarkdown(data) {
   
 ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
 
-    `;
+## Description
+   ${data.description}
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+`;
 }
 
 module.exports = generateMarkdown;

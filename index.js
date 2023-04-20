@@ -26,7 +26,7 @@ const questions = [{
     message: "Provide instructions and examples for use."
 },
 {
-    type: "list",
+    type: "checkbox",
     name: "license",
     message: "What license do you choose for your project?",
     choices: [
