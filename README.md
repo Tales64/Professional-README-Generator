@@ -1,7 +1,6 @@
 
 
   
-![badge](https://img.shields.io/badge/license-Apache,Academic,GNU,ISC,MIT,Mozilla,Open-brightgreen)<br />
 
 ## Description
    Its made to help auto generate READMEs. It is made for a class homework and to help me actually create readmes for my class homeworks.
@@ -17,10 +16,7 @@
    npm install the pakages, then run node index.js
 ## Usage
    Use for any project to help make your ReadMEs easier.Use for any project to help make your ReadMEs easier.
-## License
-![badge](https://img.shields.io/badge/license-Apache,Academic,GNU,ISC,MIT,Mozilla,Open-brightgreen)
-<br />
-This application is legally covered by the Apache,Academic,GNU,ISC,MIT,Mozilla,Open license. 
+
 ## Contributing
    have fun and dont break anything.
 ## Walkthrough
