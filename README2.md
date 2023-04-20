@@ -1,6 +1,6 @@
 
 
   
-![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)<br />
 
     
