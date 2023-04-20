@@ -6,42 +6,64 @@ const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [{
-    type: 'input',
-    message: 'What is your app used for?',
-    name: 'app usage',
-  },
-  {
-    type: 'input',
-    message: 'How should your app be used?',
-    name: 'app usage',
-  },
-  {
-    type: 'input',
-    message: 'How do you install your app?',
-    name: 'app usage',
-  },
-  {
-    type: 'input',
-    message: 'How do you report issues?',
-    name: 'app usage',
-  },
-  {
-    type: 'input',
-    message: 'How do you make contributions?',
-    name: 'app usage',
-  },
-  {
-      type: 'checkbox',
-      message: 'What License does this app use?',
-      name: 'License',
-      choices: ['GNU AGPLv3', 'GNU GPLv3',
-      'GNU LGPLv3', 'Mozilla Public License 2.0',
-      'Apache License 2.0', 'MIT License', 'Boost Software License 1.0',
-      'The Unlicense'],
-    },
-    {type: 'input',
-name: 'username',
-message: 'What is your GitHub username?',}
+    type: "input",
+    name: "title",
+    message: "What is the title of your project README?"
+},
+{
+    type: "input",
+    name: "description",
+    message: "Write a short description explaining the what, why, and how. What was your motivation? Why did you build this project? What problem does it solve? What did you learn? What makes your project stand out?"
+},
+{
+    type: "input",
+    name: "installation",
+    message: "What are the steps required to install your project?"
+},
+{
+    type: "input",
+    name: "usage",
+    message: "Provide instructions and examples for use."
+},
+{
+    type: "list",
+    name: "license",
+    message: "What license do you choose for your project?",
+    choices: [
+        "Apache",
+        "Academic",
+        "GNU",
+        "ISC",
+        "MIT",
+        "Mozilla",
+        "Open"
+    ]
+},
+{
+    type: "input",
+    name: "contributing",
+    message: "Add guidelines so that other developers can contribute to your project."
+},
+{
+    type: "input",
+    name: "tests",
+    message: "If applicable, provide any tests written for your application and provide examples on how to run them."
+},
+{
+    type: "input",
+    name: "questions",
+    message: "What can users do if they have an issue?"
+},
+{
+    type: "input",
+    name: "username",
+    message: "Please enter your GitHub username: "
+},
+{
+    type: "input",
+    name: "email",
+    message: "Please enter you e-mail address."
+}
 ];
 
   

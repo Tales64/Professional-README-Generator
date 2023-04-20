@@ -11,10 +11,14 @@ function renderLicenseLink(license) {}
 function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
+// function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
 
-`;
+  
+![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
+
+    `;
 }
 
 module.exports = generateMarkdown;
