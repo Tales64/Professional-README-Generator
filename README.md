@@ -23,8 +23,10 @@
 This application is legally covered by the Apache,Academic,GNU,ISC,MIT,Mozilla,Open license. 
 ## Contributing
    have fun and dont break anything.
-## Tests
-   none
+## Walkthrough
+[Untitled_ Apr 20, 2023 4_37 PM.webm](https://user-images.githubusercontent.com/113705249/233510117-fad8dedc-acce-43e3-9c48-a146e7b319ca.webm)
+
+  https://drive.google.com/file/d/1qkXG1T15sPJBBYOAPLpfasI5z5T7AnIA/view
 ## Questions
    Call me<br />
 <br />
