@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-Apache,Academic,GNU,ISC,MIT,Mozilla,Open-brightgreen)<br />
 
 ## Description
-   Its made to help auto generate READMEs. It is made for a class homework and to help me actually create readmes for my class homeworks.
+   This project was made to finish a homework. Its make it so i don't have to make Readmes all the time.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -14,19 +14,19 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-   npm install the pakages, then run node index.js
+   run npm install then run node index.js
 ## Usage
-   Use for any project to help make your ReadMEs easier.Use for any project to help make your ReadMEs easier.
+   Enter all the information that is asked and bam Readme
 ## License
 ![badge](https://img.shields.io/badge/license-Apache,Academic,GNU,ISC,MIT,Mozilla,Open-brightgreen)
 <br />
 This application is legally covered by the Apache,Academic,GNU,ISC,MIT,Mozilla,Open license. 
 ## Contributing
-   have fun and dont break anything.
+   Dont break it and have fun.
 ## Tests
-   none
+   No tests but if you make one let me know.
 ## Questions
-   Call me<br />
+   Call me maybe<br />
 <br />
    You can find me on GitHub: [Tales64](https://github.com/Tales64)<br />
 <br />
